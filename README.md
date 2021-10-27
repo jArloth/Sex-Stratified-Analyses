@@ -1,4 +1,4 @@
-# Sex-Specific-GR-response-Analyses
+# Sex-stratified-Analyses
 Sex differences in the genetic regulation of the blood transcriptome response to glucocorticoid receptor activation
 
 R version 3.6.1 (2019-07-05)
